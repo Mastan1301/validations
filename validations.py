@@ -14,7 +14,6 @@ def vailidate_user(username, minlen):
             return False
         # Usernames can't begin with a number
         if type(username [0])==type(6)
+            pass 
             return False
         return True
-
-        
